@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">STUDENT MANAGEMENT SYSTEM</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="admin_access">Admin Access</string>
+    <string name="student_access">Student Access</string>
+    <string name="teacher_access">Settings</string>
+    <string name="about_us">Aboud Us</string>
+</resources>
